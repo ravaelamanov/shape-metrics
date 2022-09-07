@@ -68,13 +68,13 @@ cd shape-metrics
 
 Из корневой директории проекта:
 
-```shell
+```
 java -jar ./target/shape-metrics.jar [-i,--input <filePath>] [-o,--output <filePath>] [-u, --units <units>]
 ```
 
 Значение параметров:
 
-```shell
+```
  -i,--input <arg>    Input file path. Optional. Defaults to standard input
                      if not specified.
  -o,--output <arg>   Output file path. Optional. Defaults to standard
